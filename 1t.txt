@@ -1,10 +1,10 @@
 00 olá
-01
-02
-03
-04
-05
-06
-07
-08
-09
+01 passos
+02 passos
+03 passos
+04 passos
+05 passos
+06 passos 
+07 passos
+08 passos
+09 passos
